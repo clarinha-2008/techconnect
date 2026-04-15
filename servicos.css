@@ -1,0 +1,50 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+
+header{
+  background-color: #3f6f70;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+
+nav {
+  background-color: #ddd;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table th {
+  background-color: #3f6f70;
+  color: white;
+  padding: 10px;
+}
+
+table td {
+  padding: 10px;
+}
+
